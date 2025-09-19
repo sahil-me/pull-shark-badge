@@ -12,7 +12,7 @@ This repo demonstrates how to earn the **Pull Shark** achievement badge on GitHu
 ## 📢 Table of Contents
 
 - [What is the Pull Shark Badge?](#📌-what-is-the-pull-shark-badge)
-- [Requirements](#requirements)
+  - [Requirements](#requirements)
 - [Step-by-Step Guide](#🛠️-step-by-step-guide)
   - [Solo Method](#1️⃣-solo-method-your-own-repo)
   - [Contributor Method](#2️⃣-contributor-method-collaboration)
@@ -34,16 +34,16 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 - **Purpose**: Represents **good collaboration** because PRs are merged after contributing changes.
 - **Unlock**: ✅ Earn it by merging your own PRs or having your PRs merged into someone else’s repository.
 
-## Requirements
-
-> ⚠️ **Important**: These requirements are critical for badge eligibility
+Requirements:
 
 - **✅ Public repositories only** - PRs to private repos don't count
 - **✅ Merged PRs required** - Open PRs without merging won't count
 - **✅ Verified email** - Commit email must match your GitHub account email
 - **✅ Default branch** - PRs must be merged into main/master branch
 - **✅ Original authorship** - You must be the author of the PR
-  
+
+> ⚠️ **Important**: These requirements are critical for badge eligibility
+
 ---
 
 ## 🛠️ Step-by-Step Guide
