@@ -13,7 +13,7 @@ This repo demonstrates how to earn the **Pull Shark** achievement badge on GitHu
 
 - [What is the Pull Shark Badge?](#📌-what-is-the-pull-shark-badge)
 - [Requirements](#requirements)
-- [Methods](#methods)
+- [Step-by-Step Guide](#🛠️-step-by-step-guide)
   - [Solo Method](#1️⃣-solo-method-your-own-repo)
   - [Contributor Method](#2️⃣-contributor-method-collaboration)
   - [IDE Method](#3️⃣-ide-method-vs-code--intellij-idea--any-git-integrated-ide)
