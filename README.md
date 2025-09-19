@@ -204,6 +204,8 @@ The Pull Shark badge uses an "x" multiplier system:
 
 ## ⭐ Why This Repo?
 
+![giphy (3)](https://github.com/user-attachments/assets/558bbbb0-a6ec-4852-9af2-21076ad57ad1)
+
 - Help new developers understand Pull Requests.
 - Demonstrates Pull Shark badge
 - Demonstrate GitHub’s fun achievement system.
