@@ -51,6 +51,8 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 
 ## 🛠️ Step-by-Step Guide
 
+![giphy (3)](https://github.com/user-attachments/assets/558bbbb0-a6ec-4852-9af2-21076ad57ad1)
+
 ### 👉 Four Ways to Earn the Pull Shark Badge
 
 ---
@@ -64,9 +66,10 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 - **Make a Change in a Branch**
     - Create branch: `pull-shark-branch`
     - Edit `README.md` or add `demo.txt`:
-    ```
-    Testing Pull Shark badge – edited from pull-shark-branch
-    ```
+      
+```bash
+        Testing Pull Shark badge – edited from pull-shark-branch
+```
 
 - **Open a Pull Request (PR)**
     - Compare `pull-shark-branch` → `main`
@@ -96,15 +99,17 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
     - Clone repo → `File → New → Project from Version Control`
     - Create branch: `pull-shark-branch-ide`
     - Edit `README.md` or `demo.txt`
-    ```
-    Testing Pull Shark badge – edited from pull-shark-branch
-    ```
-    - Commit & Push
-    - Open GitHub → **Compare & pull request** → Merge
+
+```bash
+        Testing Pull Shark badge – edited from pull-shark-branch
+```
+    
+   - Commit & Push
+   - Open GitHub → **Compare & pull request** → Merge
 
 - VS Code Example
-  - Install **GitHub** Pull Requests & Issues extension
-  - Clone repo → Create branch → commit → create PR → merge PR
+   - Install **GitHub** Pull Requests & Issues extension
+   - Clone repo → Create branch → commit → create PR → merge PR
 
 ---
 
@@ -112,41 +117,50 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 
 - Clone repo
   - git clone
-  ```
-  https://github.com/your-username/github-pull-shark-badge-guide.git
-  ```
+
+```bash
+      https://github.com/your-username/github-pull-shark-badge-guide.git
+```
+
   - cd
-  ```
-  github-pull-shark-badge-guide
-  ```
+
+```bash
+      github-pull-shark-badge-guide
+```
 
 - Create branch
   - git checkout -b
-  ```
-  pull-shark-branch-cli
-  ```
+
+```bash
+      pull-shark-branch-cli
+```
 
 - Make change
   - echo
-  ```
-  "🦈 Pull Shark demo change via Git CLI" >> demo.txt
-  ```
+
+```bash
+      "🦈 Pull Shark demo change via Git CLI" >> demo.txt
+```
 
 - Stage & commit
   - git add
-  ```
-  demo.txt
-  ```
+
+```bash
+      demo.txt
+```
+  
   - git commit -m
-  ```
-  "Add Pull Shark demo change via CLI"
-  ```
+  
+```bash
+      "Add Pull Shark demo change via CLI"
+```
 
 - Push
   - git push
-  ```
-  origin pull-shark-branch-cli
-  ```
+
+```bash
+      origin pull-shark-branch-cli
+```
 
   - Open GitHub → Compare & pull request → Merge PR → Confirm
 
@@ -203,8 +217,6 @@ The Pull Shark badge uses an "x" multiplier system:
 ---
 
 ## ⭐ Why This Repo?
-
-![giphy (3)](https://github.com/user-attachments/assets/558bbbb0-a6ec-4852-9af2-21076ad57ad1)
 
 - Help new developers understand Pull Requests.
 - Demonstrates Pull Shark badge
