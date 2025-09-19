@@ -4,7 +4,8 @@ Welcome to the **Pull Shark** Badge Guide!
 
 This repo demonstrates how to earn the **Pull Shark** achievement badge on GitHub by successfully merging Pull Requests.
 
-![shark-gif](./assets/shark-gif.gif) <!-- Replace with your GIF -->
+
+![giphy (2)](https://github.com/user-attachments/assets/ae69ddea-c1d8-41d8-b6ef-4e6aafe8f0df)
 
 
 ---
@@ -131,6 +132,13 @@ Requirements:
 ---
 
 ## ⏱️ When Will the Badge Appear?
+
+
+<img width="148" height="148" alt="pullshark1" src="https://github.com/user-attachments/assets/15be3e81-dffc-48bb-b81f-44e1be7c6c99" />
+<img width="148" height="148" alt="pullshark5" src="https://github.com/user-attachments/assets/12fa7497-678e-4c20-96f6-425f6959333e" />
+<img width="148" height="148" alt="pullshark2" src="https://github.com/user-attachments/assets/25df8909-8eda-4dbc-9ccd-b1be910bce92" />
+<img width="148" height="148" alt="pullshark3" src="https://github.com/user-attachments/assets/da410ab7-a674-445b-98fd-944a5fc4d404" />
+
 
 - Usually within minutes on Profile → Achievements
 - Sometimes up to 24 hours
