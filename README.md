@@ -20,7 +20,7 @@ This repo demonstrates how to earn the **Pull Shark** achievement badge on GitHu
   - [IDE Method](#3️⃣-ide-method-vs-code--intellij-idea--any-git-integrated-ide)
   - [Git CLI Method](#4️⃣-git-cli-method-terminal)
 - [Screenshots](#-screenshots)
-- [When Will the Badge Appear?](#-when-will-the-badge-appear)
+- [When Will the Badge Appear?](#%EF%B8%8F-when-will-the-badge-appear)
 - [Badge Levels](#-badge-levels)
 - [Important Limitations](#-important-limitations)
 - [Why This Repo?](#-why-this-repo)
