@@ -12,19 +12,19 @@ This repo demonstrates how to earn the **Pull Shark** achievement badge on GitHu
 
 ## 📢 Table of Contents
 
-- [What is the Pull Shark Badge?](#what-is-the-pull-shark-badge)
-  - [Requirements](#requirements)
-- [Step-by-Step Guide](#step-by-step-guide)
+- [What is the Pull Shark Badge?](#-what-is-the-pull-shark-badge)
+  - [Requirements](#-requirements)
+- [Step-by-Step Guide](#-step-by-step-guide)
   - [Solo Method](#1️⃣-solo-method-your-own-repo)
   - [Contributor Method](#2️⃣-contributor-method-collaboration)
   - [IDE Method](#3️⃣-ide-method-vs-code--intellij-idea--any-git-integrated-ide)
   - [Git CLI Method](#4️⃣-git-cli-method-terminal)
-- [Screenshots](#screenshots)
-- [When Will the Badge Appear?](#when-will-the-badge-appear)
-- [Badge Levels](#badge-levels)
-- [Important Limitations](#important-limitations)
-- [Why This Repo?](#why-this-repo)
-- [Author](#author)
+- [Screenshots](#-screenshots)
+- [When Will the Badge Appear?](#-when-will-the-badge-appear)
+- [Badge Levels](#-badge-levels)
+- [Important Limitations](#-important-limitations)
+- [Why This Repo?](#-why-this-repo)
+- [Author](#-author)
   
 
 ---
