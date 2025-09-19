@@ -115,20 +115,38 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
   ```
   https://github.com/your-username/github-pull-shark-badge-guide.git
   ```
-  - cd github-pull-shark-badge-guide
+  - cd
+  ```
+  github-pull-shark-badge-guide
+  ```
 
 - Create branch
-  - git checkout -b pull-shark-branch-cli
+  - git checkout -b
+  ```
+  pull-shark-branch-cli
+  ```
 
 - Make change
-  - echo "🦈 Pull Shark demo change via Git CLI" >> demo.txt
+  - echo
+  ```
+  "🦈 Pull Shark demo change via Git CLI" >> demo.txt
+  ```
 
 - Stage & commit
-  - git add demo.txt
-  - git commit -m "Add Pull Shark demo change via CLI"
+  - git add
+  ```
+  demo.txt
+  ```
+  - git commit -m
+  ```
+  "Add Pull Shark demo change via CLI"
+  ```
 
 - Push
-  - git push origin pull-shark-branch-cli
+  - git push
+  ```
+  origin pull-shark-branch-cli
+  ```
 
   - Open GitHub → Compare & pull request → Merge PR → Confirm
 
