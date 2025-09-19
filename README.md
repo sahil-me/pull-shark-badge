@@ -171,6 +171,11 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 
 ## 📸 Screenshots
 
+<img width="1365" height="615" alt="pull-shark1" src="https://github.com/user-attachments/assets/ac9c7b41-4647-4176-bad5-9db1380108b3" />
+<img width="1366" height="768" alt="pull-shark4" src="https://github.com/user-attachments/assets/513c2e30-55a4-4955-bd8d-703b07219d54" />
+<img width="1366" height="768" alt="fd2" src="https://github.com/user-attachments/assets/bda4adb0-d273-4d6f-ad3a-d62d03831d68" />
+<img width="1366" height="768" alt="fd1" src="https://github.com/user-attachments/assets/5bd1f905-57c6-444e-8588-4d087f8f2176" />
+
 
 ---
 
