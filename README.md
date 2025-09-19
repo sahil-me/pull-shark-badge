@@ -63,7 +63,10 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 
 - **Make a Change in a Branch**
     - Create branch: `pull-shark-branch`
-    - Edit `README.md` or add `demo.txt`: Testing Pull Shark badge – edited from pull-shark-branch
+    - Edit `README.md` or add `demo.txt`:
+    ```
+    Testing Pull Shark badge – edited from pull-shark-branch
+    ```
 
 - **Open a Pull Request (PR)**
     - Compare `pull-shark-branch` → `main`
@@ -92,7 +95,10 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
   - IntelliJ IDEA Example
     - Clone repo → `File → New → Project from Version Control`
     - Create branch: `pull-shark-branch-ide`
-    - Edit `README.md` or `demo.txt`:
+    - Edit `README.md` or `demo.txt`
+    ```
+    Testing Pull Shark badge – edited from pull-shark-branch
+    ```
     - Commit & Push
     - Open GitHub → **Compare & pull request** → Merge
 
@@ -105,7 +111,10 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 ### 4️⃣ Git CLI Method (Terminal)
 
 - Clone repo
-  - git clone https://github.com/your-username/github-pull-shark-badge-guide.git
+  - git clone
+  ```
+  https://github.com/your-username/github-pull-shark-badge-guide.git
+  ```
   - cd github-pull-shark-badge-guide
 
 - Create branch
