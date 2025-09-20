@@ -89,7 +89,7 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
   - **Open PR** to original repository
   - **Wait for maintainer** to merge → badge progress increases
 
-> 🏅 Tip: Repeat in multiple repos to reach higher badge levels (Bronze → Diamond).
+> 🏅 Tip: Repeat in multiple repos to reach higher badge levels (Bronze → Gold).
 
 ---
 
