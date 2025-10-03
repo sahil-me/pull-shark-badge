@@ -197,7 +197,7 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 
 ## 🏅 Badge Levels
 
-The Pull Shark badge uses an "x" multiplier system:
+The **Pull Shark** badge uses an "x" multiplier system:
 
 | Level | Requirement | Badge Display |
 |-------|-------------|---------------|
