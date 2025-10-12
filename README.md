@@ -199,6 +199,7 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 
 <img width="148" height="148" alt="pull-shark-default-498c279a747d" src="https://github.com/user-attachments/assets/eaaa0220-cb30-4ed9-9d97-a0f4d7a71612" />
 <img width="148" height="148" alt="pull-shark-bronze" src="https://github.com/user-attachments/assets/e7bb6c71-da0d-4218-a0b0-2e8a2b65f2a5" />
+<img width="148" height="148" alt="pull-shark-silver" src="https://github.com/user-attachments/assets/2cdb809c-c433-495d-a7c8-54365c38269a" />
 
 The **Pull Shark** badge uses an "x" multiplier system:
 
