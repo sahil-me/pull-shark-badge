@@ -181,6 +181,7 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 
 ## ⏱️ When Will the Badge Appear?
 
+<img width="148" height="148" alt="pull-shark-default-498c279a747d" src="https://github.com/user-attachments/assets/89560c33-a34f-41c7-9569-2327cc204461" />
 
 
 
