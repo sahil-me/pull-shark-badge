@@ -37,8 +37,7 @@ The **Pull Shark badge** is awarded when you **open and merge Pull Requests** on
 - **Purpose**: Represents **good collaboration** because PRs are merged after contributing changes.
 - **Unlock**: ✅ Earn it by merging your own PRs or having your PRs merged into someone else’s repository.
 
-### 🔻 Requirements:
-
+## 🔻 Requirements:
 - **✅ Public repositories only** - PRs to private repos don't count
 - **✅ Merged PRs required** - Open PRs without merging won't count
 - **✅ Verified email** - Commit email must match your GitHub account email
